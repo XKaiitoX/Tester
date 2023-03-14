@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Climate Crisis', cursive;
+
+}
+
+body{
+    background-color: rgb(166, 218, 164);
+}
+
+li{
+    font-family: 'Smokum', cursive;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    font-size: 25px;    
+}
+
+.lista{
+    display: flex;
+    justify-content: center;
+}
